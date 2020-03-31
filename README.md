@@ -1,3 +1,21 @@
+# Video
+
+[Demo](https://www.bilibili.com/video/BV1wk4y1o76j/)
+
+# libviso2
+## build
+```sh
+➜  sudo apt install libpng++-dev
+```
+## run
+```sh
+./viso2 path/to/sequence/2010_03_09_drive_0019
+```
+
+
+
+-----
+
 viso2
 ==========
 ROS Stack containing a wrapper for libviso2, a visual odometry library. 
